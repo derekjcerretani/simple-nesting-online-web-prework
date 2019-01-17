@@ -136,5 +136,5 @@ end
 =end
 
 def hopper
-	hopper[:grace_hopper]
+	programmer_hash[:grace_hopper]
 end
